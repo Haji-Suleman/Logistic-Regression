@@ -26,3 +26,4 @@
 
 # print("Updated Perceptron Weights:", w_perc)
 # print("Updated Logistic Weights:", w_log)
+# Cost Function J(b)=−m1​i=1∑m​[y(i)log(y^​(i))+(1−y(i))log(1−y^​(i))]
